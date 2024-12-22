@@ -1,8 +1,9 @@
 /*  your css code here. If applicable */
 div {
 	width:330px;
-	height:450px;
+	height:500px;
 	box-sizing:border-box;
+	padding:15px;
 	background-color:lightgray;
 }
 
@@ -19,6 +20,12 @@ p {
 	text-align:center;
 }
 
+button {
+	background-color:orangered;
+	padding:20px;
+	color:white;
+	border-radius:20px;
+}
 
 
 
